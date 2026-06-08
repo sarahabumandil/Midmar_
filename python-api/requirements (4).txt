@@ -1,0 +1,9 @@
+flask==3.0.0
+flask-cors==4.0.0
+dill>=0.3.8
+pandas==2.1.4
+numpy==1.26.4
+opencv-python>=4.8.0,<4.10.0
+xgboost==2.0.3
+# Must match version used to train player_value_model.pkl (1.6.1)
+scikit-learn==1.6.1
